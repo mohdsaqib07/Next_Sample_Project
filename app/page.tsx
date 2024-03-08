@@ -4,7 +4,7 @@ import Link from 'next/link';
 import styles from '@/app/ui/home.module.css'
 import clsx from 'clsx'
 import {lusitana} from '@/app/ui/fonts'
-import Image from 'next/Image'
+import Image from 'next/image'
 export default function Page() {
   const name = 'saqib'
   return (
